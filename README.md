@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ClickBid is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://clickbid.com/
+ClickBid lives in your phone's wallet. Play featured games, hit in-game goals, and earn real money delivered straight to your pass — no app install. The platform enables users to engage with games, achieve milestones, and receive payouts directly to their digital wallet, all without needing a separate app installation.
+
+**Areas:** Company · Mobile · Gaming · Payments · Wallet
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://clickbid.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/clickbid/](https://apis.io/providers/clickbid/).
