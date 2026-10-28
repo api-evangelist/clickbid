@@ -72,7 +72,13 @@ ClickBid lives in your phone's wallet. Play featured games, hit in-game goals, a
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://clickbid.com/)
+- [Website](https://clickbid.io/)
+- [Documentation](https://clickbid.io/guides/earn-money-playing-games)
+- [Support](https://clickbid.io/support)
+- [Terms of service](https://clickbid.io/tos)
+- [Privacy policy](https://clickbid.io/privacy)
+
+**APIs profiled:** 1
 
 ## API Evangelist rating
 
